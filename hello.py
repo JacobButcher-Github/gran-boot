@@ -1,3 +1,5 @@
+import pyautogui
+
 def main():
     print("Hello from gran-boot!")
 
